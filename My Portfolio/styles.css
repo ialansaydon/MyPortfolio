@@ -1,0 +1,109 @@
+body {
+    margin: 0px 0px 0px 0px;
+    width: auto;
+}
+
+.nav {
+    display: -webkit-inline-box;
+    margin: 0px 0px 0px 0px;
+    background-color: black;
+    opacity: 0.7;
+    position: fixed;
+    overflow: hidden;
+    padding: 22px 500px 20px 400px;
+}
+
+a {
+    color: grey;
+    padding: 50px;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 0px;
+    margin: 25px;
+}
+
+a:hover {
+    color: white;
+    font-style: italic;
+}
+
+img.logo {
+    position: absolute;
+    width: 160px;
+    height: 70px;
+    margin: 0px 0px 0px 90px;
+}
+
+.background {
+    width: 1350px;
+    height: 650px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: grey;
+    position: absolute;
+    margin: 200px 0px 0px 90px;
+}
+
+h3 {
+    color: goldenrod;
+    position: absolute;
+    margin: 310px 0px 0px 150px;
+}
+
+.be-inspired {
+    background-color: white;
+}
+
+p {
+    padding: 25px 50px 25px 50px;
+}
+
+#learn-more {
+    background-color: #2A59D5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin: 0px 0px 20px 600px;
+}
+
+#footer {
+    background-color: black;
+    width: 1350px;
+    height: 300px;
+}
+
+#git {
+    color: white;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+
+.name {
+    margin: 0px 0px 0px 500px;
+    display: block;
+    float: left;
+}
+
+.email {
+    display: block;
+    text-align: right;
+}
+
+.message {
+    margin: 10px 0px 0px 590px;
+    display: block;
+}
+
+.sbutton {
+    margin: 0px 0px 0px 650px;
+}
